@@ -205,5 +205,4 @@ jQuery(function ($) {
 	};
 
 	App.init();
-	view.render();
 });
